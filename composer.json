@@ -1,0 +1,19 @@
+{
+    "name": "simklee/laravel-string-buffer",
+    "description": "A string buffer to manipulate strings object orientated",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Simklee\\LaravelStringBuffer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Simon Kleeschulte",
+            "email": "simon.kleeschulte@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
